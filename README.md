@@ -1,4 +1,4 @@
-# guacamole-radius-extension
+# guacamole-auth-radius
 
 This dockerfile is for easily building the latest radius-auth .jar for Apache Guacamole.
 
